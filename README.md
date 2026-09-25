@@ -22,7 +22,7 @@ One skill set per language. The entry point is that language's getting-started s
 Install the plugin with a single command:
 
 ```
-npx context-plugins install https://github.com/PayPalServerSDKs/server-sdk-plugin-hackathon
+npx context-plugins install https://github.com/paypaldev/server-sdk-context-plugin-preview
 ```
 
 Then ask a usage question (e.g. *"how do I authenticate this SDK with an API key?"*) to trigger the relevant skill.
